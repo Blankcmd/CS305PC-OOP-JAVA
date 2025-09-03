@@ -64,7 +64,7 @@ class Lab1P1{
 		Boolean oo = o;
 		
 		System.out.println(Boolean.SIZE);
-		System.out.println(Boolean.BYTES);
+		System.out.println(Boolean.TYPE);
 		System.out.println("-----Boolean-----");
 	}
 }
