@@ -159,7 +159,6 @@ void delete_end()
     printf("Deleted from end\n");
 }
 
-// Implement delete_pos (prompt for position inside)
 void delete_pos()
 {
     int pos, i;
